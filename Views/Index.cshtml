@@ -1,0 +1,33 @@
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+ 
+@model ConexionBD.models.invoice
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>App compras</title>
+</head>
+<body>
+    <form asp-controller="Home" asp-action="RegistrarComprador">
+        <h1>Invoice</h1>
+        <label>Cliente:</label>
+        <input asp-for="Cliente"/><br/>
+        <label>Producto:</label>
+        <select asp-for="Producto">
+            <option value="Producto a 100">P1</option>
+            <option value="Producto a 50">P2</option>
+            <option value="Producto a 80">P3</option>
+        </select><br/>        
+        <label>Cantidad:</label>
+        <input asp-for="cantidad"/><br/>
+        <label>Fecha</label>
+        <input asp-for="date"/><br/>
+        <input type="submit" value="Registrar">
+     </form>
+</body>
+</html>
+
+
