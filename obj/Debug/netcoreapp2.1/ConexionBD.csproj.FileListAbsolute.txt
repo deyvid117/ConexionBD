@@ -1,0 +1,6 @@
+C:\Users\Clase\Downloads\ConexionBD\obj\Debug\netcoreapp2.1\ConexionBD.csprojAssemblyReference.cache
+C:\Users\Clase\Downloads\ConexionBD\obj\Debug\netcoreapp2.1\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\Clase\Downloads\ConexionBD\obj\Debug\netcoreapp2.1\ConexionBD.RazorAssemblyInfo.cache
+C:\Users\Clase\Downloads\ConexionBD\obj\Debug\netcoreapp2.1\ConexionBD.RazorAssemblyInfo.cs
+C:\Users\Clase\Downloads\ConexionBD\obj\Debug\netcoreapp2.1\ConexionBD.AssemblyInfoInputs.cache
+C:\Users\Clase\Downloads\ConexionBD\obj\Debug\netcoreapp2.1\ConexionBD.AssemblyInfo.cs
